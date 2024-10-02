@@ -30,4 +30,5 @@ int main() {
   }
   sumAndNumOfPositiveAboveDiagonal(matrix, N);
   return 0;
+
 }
